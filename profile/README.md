@@ -1,10 +1,6 @@
-### Hey <img src="https://github.com/dqzboy/dqzboy/assets/42825450/97471f55-148e-41af-a79c-63fcda189a81" width="28px">，I'm QinZheng Ding
+### Hey <img src="https://github.com/dqzboy/dqzboy/assets/42825450/97471f55-148e-41af-a79c-63fcda189a81" width="28px">，Linux 
 
 ---
-
-- ![dqzboy](https://komarev.com/ghpvc/?username=dqzboy) [![](https://visitor-badge.laobi.icu/badge?page_id=dqzboy.dqzboy)](https://visitor-badge.laobi.icu/badge?page_id=dqzboy.dqzboy)
-[![](https://img.shields.io/github/stars/dqzboy?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=dqzboy&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/dqzboy?color=27da6b&logo=Handshake)](https://github.com/dqzboy?tab=followers)
 
 <br />
 
@@ -17,17 +13,20 @@ width="800"  height="3">
 
 </div>
 
-
-Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+LinuxWave is a community composed of programmers who are passionate about programming and open-source culture 😉. 
 
 ---
 
-### 🏊 Current Status Quo
+### 🏊 Organization Values
+- 👨🏻‍💻 We believe in the power of technology and are committed to driving technological progress through open-source projects.
+- 🌱 We encourage our members to share knowledge and grow together.
+- 💻 We advocate for a healthy lifestyle, balancing work and life.
 
-- 👨🏻‍💻 I’m currently working on [kubernetes](https://github.com/kubernetes/kubernetes)。
-- 🌱 I’m currently learning [istio](https://github.com/istio/istio) 和 [go](https://github.com/golang/go)。
-- 💻 I love writing code and learn anythings about it
-- 💬 Ask me about anything, I would like to answer.
+---
+
+### 💬 Contact Us:
+
+- 🚀 We welcome like-minded developers to join our community and create endless possibilities together.
 
 ---
 
@@ -71,46 +70,3 @@ Hi, I'm QinZheng Ding 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Be
 <code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="Audition" title="Audition"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/3ds-max.png" alt="3D-Max" title="3D-Max"></code>
 <code><img height="20" src="https://img.icons8.com/fluency/48/000000/autodesk-inventor-2020.png" alt="Inventor" title="Inventor"></code>
-
----
-
-### 🏆 My Github Stats
-<details open>
-<summary>点击展开 ...</summary>
-
-<div align="center">
-
-[![dqzboy's github stats](https://github-readme-stats.vercel.app/api?username=dqzboy&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=dqzboy&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=dqzboy&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=dqzboy&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-
-[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/dqzboy/dqzboy/main/assets/github-contribution-grid-snake.svg)
-
-[![](https://activity-graph.herokuapp.com/graph?username=dqzboy&theme=github)](https://activity-graph.herokuapp.com/graph?username=dqzboy&theme=github)
-</div>
-
----
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<details open>
-<summary>点击展开 ...</summary>
-
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
-
-<!-- BLOG-POST-LIST:START -->
-- 🐻 [二进制部署一套高可用K8s集群](https://www.dqzboy.com/cloud/k8s) 
-
-- 🎃 [Jenkins CICD流程实现审批功能](https://www.dqzboy.com/9686.html) 
-
-- 🚀 [使用Go写一个LogAgent](https://www.dqzboy.com/10345.html) 
-
-- 🌋 [Jenkins安卓项目的流水线实践](https://www.dqzboy.com/9674.html) 
-
-- ⚡ [自建ChatGPT反向代理服务器](https://www.dqzboy.com/13935.html) 
-
-- 😺 [国内服务器实现科学上网并接入chatGPT](https://www.dqzboy.com/13754.html) 
-<!-- BLOG-POST-LIST:END -->
-
-更多内容请关注：[浅时光博客](https://www.dqzboy.com)
-
-</details>
